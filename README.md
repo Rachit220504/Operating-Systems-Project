@@ -14,7 +14,7 @@
 ## Project-1 : System Call inplemented: cps,shm_address, describe
 
 ### Problem Overview
-In this project, we aimed to implement **four new system calls** and integrate them into the **xv6-riscv operating system**.
+In this project, we aimed to implement **three new system calls** and integrate them into the **xv6-riscv operating system**.
 
 ### System Calls Implemented
 1. **cps**  
@@ -25,8 +25,6 @@ In this project, we aimed to implement **four new system calls** and integrate t
    
 3. **Describe**  
    - Providing the description for each system call to help understand their functionality.
-  
-
 
 
 ### Methodology
