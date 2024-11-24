@@ -54,19 +54,19 @@ make qemu
 ```
 ### For cps:
 ```
-$ cps
+$ ps
 ```
 ### For Shm_address
 ```
-k
+$shmtest
 ```
 ### For Describe
 ```
-c
+$
 ```
 ### For exit_terminal
 ```
-G
+$
 ```
 ## Output Images
 
