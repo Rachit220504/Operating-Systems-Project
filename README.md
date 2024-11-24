@@ -95,19 +95,19 @@ implement a command called custom_cat .
 
 ### Modified Commands
 1. **cat**
-   will do later
+   - will do later.
 2. **cad**
-   will do later
+   - will do later.
 3. **cp**
-   will do later
+   - will do later.
 4. **exit**
-   will do later
+   - will do later.
 5. **ls**
-   will do later
+   - will do later.
 6. **mv**
-   will do later
+   - will do later
 7. **rm**
-   will do later
+   - will do later.
 
 ### Methodology
    
