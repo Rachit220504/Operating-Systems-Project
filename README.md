@@ -42,3 +42,13 @@ In this project, we aimed to implement **four new system calls** and integrate t
    - The wrapper function:  
      - Passes the required arguments to the system call.  
      - Is added to the **function registry**, ensuring proper mapping from user-space to kernel-space.
+
+'''
+make clean
+'''
+'''
+make
+'''
+'''
+make qemu
+'''
