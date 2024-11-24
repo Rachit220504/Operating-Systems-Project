@@ -92,3 +92,22 @@ These utilities will be lightweight versions of common commands, such as cat,
 ls, cd, and others. To avoid confusion with the standard UNIX commands, each
 utility will have a unique name; for instance, instead of using cat, you will
 implement a command called custom_cat .
+
+### Modified Commands
+1. **cat**
+   will do later
+2. **cad**
+   will do later
+3. **cp**
+   will do later
+4. **exit**
+   will do later
+5. **ls**
+   will do later
+6. **mv**
+   will do later
+7. **rm**
+   will do later
+
+### Methodology
+   
