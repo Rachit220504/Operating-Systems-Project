@@ -8,6 +8,8 @@
 ## Prerequisite
 - Ensure your Ubuntu version is **24.04** if you're using WSL.
 
+## Question-1 : System Call inplemented: cps,signal,pthread, message queue
+
 ## Problem Overview
 In this project, we aimed to implement **four new system calls** and integrate them into the **xv6-riscv operating system**.
 
