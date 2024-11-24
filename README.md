@@ -82,7 +82,7 @@ G
 6. **Exit_terminal**
 
 ## Question_2: Custom UNIX shell application
-**Topics Implemented:**  cat,cd,cp,exit,ls,mv,rm
+**Topics Implemented:**  'cat' , 'cd' , 'cp' , 'exit' , 'ls' , 'mv' , 'rm'
 
 In this project, we aim to develop a series of simplified UNIX-like utilities.
 These utilities will be lightweight versions of common commands, such as cat,
