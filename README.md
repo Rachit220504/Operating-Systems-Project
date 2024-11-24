@@ -18,12 +18,11 @@ In this project, we aimed to implement **four new system calls** and integrate t
    Displays all the processes currently running, their process IDs, and current states.
 
 2. **Shm_address**  
-   - Implemented a default handler for a user-generated interrupt (**SIG_INT**).  
-   - Added **Ctrl+C** as a command to send a user interrupt.
-
+   - Implementing a new system call which will provide the shared memory address.  
+   
 3. **Describe**  
-   - Implemented a function to create threads.  
-   - Allocated a kernel stack for each thread during execution.
+   - Providing the description for each system call to help understand their functionality.
+  
 
 
 
