@@ -1,0 +1,6 @@
+/home/shubh_khandelwal/Documents/IIITDM Kancheepuram/Operating Systems/Project/build/CMakeFiles/SHELL.dir
+/home/shubh_khandelwal/Documents/IIITDM Kancheepuram/Operating Systems/Project/build/CMakeFiles/edit_cache.dir
+/home/shubh_khandelwal/Documents/IIITDM Kancheepuram/Operating Systems/Project/build/CMakeFiles/rebuild_cache.dir
+/home/shubh_khandelwal/Documents/IIITDM Kancheepuram/Operating Systems/Project/build/include/CMakeFiles/COMMANDS.dir
+/home/shubh_khandelwal/Documents/IIITDM Kancheepuram/Operating Systems/Project/build/include/CMakeFiles/edit_cache.dir
+/home/shubh_khandelwal/Documents/IIITDM Kancheepuram/Operating Systems/Project/build/include/CMakeFiles/rebuild_cache.dir
