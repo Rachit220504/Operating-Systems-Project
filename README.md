@@ -106,10 +106,10 @@ implement a command called custom_cat .
    - Usage: cat <Input_File_1> <Input_File_2> ...
    - Used for concatenating and displaying file contents
 2. **custom_cd**
-   - Usage: cd <Destination>
+   - Usage: cd <Destination_Path>
    - Used for changing directories
 3. **custom_cp**
-   - Usage: cp <Input_File_1> <Input_File_2> ... <Destination>
+   - Usage: cp <Input_File_1> <Input_File_2> ... <Destination_Path>
    - Used for copying files
 4. **custom_exit**
    - Usage: exit
@@ -118,7 +118,7 @@ implement a command called custom_cat .
    - Usage: ls
    - Used for listing items
 6. **custom_mv**
-   - Usage: mv <Input_File_1> <Input_File_2> ... <Destination>
+   - Usage: mv <Input_File_1> <Input_File_2> ... <Destination_Path>
    - Used for moving files
 
 
