@@ -1,9 +1,9 @@
 # Operating Systems Project
 
 ## Group Members
-1. **Rachit** - CS22B1088  
-2. **Shubh** - CS22B1090  
-3. **Kush** - CS22B2010   
+1. **Rachit Chandekar** - CS22B1088  
+2. **Shubh Khandelwal** - CS22B1090  
+3. **Kush Jain** - CS22B2010   
 
 ## Prerequisites
 - Bash
