@@ -8,7 +8,7 @@
 ## Prerequisites
 - Ensure your Ubuntu version is **24.04** if you're using WSL.
 
-## Question-1 : System Call inplemented: cps,signal,pthread, message queue
+## Question-1 : System Call inplemented: cps,shm_address, describe
 
 ### Problem Overview
 In this project, we aimed to implement **four new system calls** and integrate them into the **xv6-riscv operating system**.
@@ -25,8 +25,7 @@ In this project, we aimed to implement **four new system calls** and integrate t
    - Implemented a function to create threads.  
    - Allocated a kernel stack for each thread during execution.
 
-4. **exit_terminal**  
-   - Implemented `msgget` to allocate memory for **inter-process communication (IPC)**.
+
 
 ### Methodology
 1. **System Call Numbers**  
@@ -62,18 +61,14 @@ $shmtest
 ```
 ### For Describe
 ```
-$
+$desc
 ```
-### For exit_terminal
-```
-$
-```
+
 ## Output Images
 
 1. **Make**
    
-![ALT TEXT](images/make1.png)
-![ALT TEXT](images/make2.png)
+![make](https://github.com/user-attachments/assets/4a69a94b-5820-4edd-a6e1-0283806b8155)
 
 2. **Make Qemu**
    
@@ -93,9 +88,7 @@ $
 ![describe](https://github.com/user-attachments/assets/0d63d3f1-dad6-4a78-8af1-d16a4474f0d2)
 
 
-6. **Exit_terminal**
-    
-![ALT TEXT](images/thread_create.png)
+
 
 ## Question_2: Custom UNIX shell application
 **Topics Implemented:**  'cat' , 'cd' , 'cp' , 'exit' , 'ls' , 'mv' , 'rm'
