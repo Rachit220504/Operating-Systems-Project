@@ -79,5 +79,4 @@ G
 4. **Shm_address**
 
 5. **Describe**
-
- 6.**Exit_terminal**
+6. **Exit_terminal**
