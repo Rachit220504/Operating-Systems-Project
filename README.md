@@ -68,3 +68,16 @@ c
 ```
 G
 ```
+## Output Images
+
+1. **Make**
+   hbgf
+2. **Make Qemu**
+
+3. **Cps**
+
+4. **Shm_address**
+
+5. **Describe**
+
+6.**Exit_terminal**
