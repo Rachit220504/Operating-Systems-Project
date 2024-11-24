@@ -77,11 +77,11 @@ G
 
 2. **Make Qemu**
    
-![ALT TEXT](images/makeqemu.png)
+![make_que](https://github.com/user-attachments/assets/c22d605a-ec8e-49cc-8597-8b1d4be3a7b3)
 
 3. **Cps**
    
- ![ALT TEXT](images/signal.png)
+![cps](https://github.com/user-attachments/assets/a8a792d0-1c8a-4692-ac23-f841d13b0ff5)
  
 4. **Shm_address**
    
@@ -90,7 +90,8 @@ G
 
 5. **Describe**
     
-![ALT TEXT](images/thread_create.png)
+![describe](https://github.com/user-attachments/assets/0d63d3f1-dad6-4a78-8af1-d16a4474f0d2)
+
 
 6. **Exit_terminal**
     
