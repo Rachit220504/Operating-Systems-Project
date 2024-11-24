@@ -5,12 +5,12 @@
 2. **Shubh** - CS22B1090  
 3. **Kush** - CS22B2010   
 
-## Prerequisite
+## Prerequisites
 - Ensure your Ubuntu version is **24.04** if you're using WSL.
 
 ## Question-1 : System Call inplemented: cps,signal,pthread, message queue
 
-## Problem Overview
+### Problem Overview
 In this project, we aimed to implement **four new system calls** and integrate them into the **xv6-riscv operating system**.
 
 ### System Calls Implemented
@@ -28,7 +28,7 @@ In this project, we aimed to implement **four new system calls** and integrate t
 4. **message queue**  
    - Implemented `msgget` to allocate memory for **inter-process communication (IPC)**.
 
-## Methodology
+### Methodology
 1. **System Call Numbers**  
    - Each system call is assigned a **unique number** in the system call registry.  
    - When a system call is invoked, the system triggers an **interrupt** with the corresponding number.
