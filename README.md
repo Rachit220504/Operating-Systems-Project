@@ -100,19 +100,21 @@ implement a command called custom_cat .
 
 ### Modified Commands
 1. **custom_cat**
-   - will do later.
+![cat](https://github.com/user-attachments/assets/43c0772f-f89c-4959-82a9-cfdcc57a280f)
 2. **custom_cd**
-   - will do later.
+![cd](https://github.com/user-attachments/assets/3775e9ae-d947-4f38-b92d-8abe57770416)
+
 3. **custom_cp**
-   - will do later.
+![cp](https://github.com/user-attachments/assets/67051673-a4a4-44ca-8994-f757214a899b)
 4. **custom_exit**
-   - will do later.
+![exit](https://github.com/user-attachments/assets/4d95cd69-34ba-4b65-a522-f13357c7c15e)
+
 5. **custom_ls**
-   - will do later.
+![ls](https://github.com/user-attachments/assets/cacdee94-f091-4d99-89ce-2b7d68f68a84)
+
 6. **custom_mv**
-   - will do later
-7. **custom_rm**
-   - will do later.
+![mv](https://github.com/user-attachments/assets/4cdf5f2b-ecce-4692-8652-5f9f6ce8a991)
+
 
 ### Implementation
 
