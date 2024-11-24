@@ -17,15 +17,15 @@ In this project, we aimed to implement **four new system calls** and integrate t
 1. **cps**  
    Displays all the processes currently running, their process IDs, and current states.
 
-2. **signal**  
+2. **Shm_address**  
    - Implemented a default handler for a user-generated interrupt (**SIG_INT**).  
    - Added **Ctrl+C** as a command to send a user interrupt.
 
-3. **pthread**  
+3. **Describe**  
    - Implemented a function to create threads.  
    - Allocated a kernel stack for each thread during execution.
 
-4. **message queue**  
+4. **exit_terminal**  
    - Implemented `msgget` to allocate memory for **inter-process communication (IPC)**.
 
 ### Methodology
@@ -105,20 +105,53 @@ utility will have a unique name; for instance, instead of using cat, you will
 implement a command called custom_cat .
 
 ### Modified Commands
-1. **cat**
+1. **custom_cat**
    - will do later.
-2. **cad**
+2. **custom_cd**
    - will do later.
-3. **cp**
+3. **custom_cp**
    - will do later.
-4. **exit**
+4. **custom_exit**
    - will do later.
-5. **ls**
+5. **custom_ls**
    - will do later.
-6. **mv**
+6. **custom_mv**
    - will do later
-7. **rm**
+7. **custom_rm**
    - will do later.
 
-### Methodology
+### Implementation
+
+### Output
+1. **Custom_cat**
+   
+![ALT TEXT](images/thread_create.png)
+
+2. **Custom_cd**
+
+![ALT TEXT](images/thread_create.png)
+
+3. **Custom_cp**
+
+![ALT TEXT](images/thread_create.png)
+
+4. **Custom_exit**
+
+![ALT TEXT](images/thread_create.png)
+
+5. **Custom_ls**
+
+![ALT TEXT](images/thread_create.png)
+
+6. **Custom_mv**
+
+![ALT TEXT](images/thread_create.png)
+
+7. **Custom_rm**
+
+![ALT TEXT](images/thread_create.png)
+   
+
+
+
    
