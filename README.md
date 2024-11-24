@@ -6,9 +6,12 @@
 3. **Kush** - CS22B2010   
 
 ## Prerequisites
-- Ensure your Ubuntu version is **24.04** if you're using WSL.
+- Bash
+- CMake
+- Ubuntu Version **22.04** / **24.04**
+- xv6-public / xv6-riscv
 
-## Question-1 : System Call inplemented: cps,shm_address, describe
+## Project-1 : System Call inplemented: cps,shm_address, describe
 
 ### Problem Overview
 In this project, we aimed to implement **four new system calls** and integrate them into the **xv6-riscv operating system**.
@@ -89,7 +92,7 @@ $desc
 
 
 
-## Question_2: Custom UNIX shell application
+## Project-2: Custom UNIX shell application
 **Topics Implemented:**  'cat' , 'cd' , 'cp' , 'exit' , 'ls' , 'mv' 
 
 In this project, we aim to develop a series of simplified UNIX-like utilities.
@@ -100,20 +103,23 @@ implement a command called custom_cat .
 
 ### Modified Commands
 1. **custom_cat**
-   - 
+   - Usage: cat <Input_File_1> <Input_File_2> ...
+   - Used for concatenating and displaying file contents
 2. **custom_cd**
-   - 
-
+   - Usage: cd <Destination>
+   - Used for changing directories
 3. **custom_cp**
-   - 
+   - Usage: cp <Input_File_1> <Input_File_2> ... <Destination>
+   - Used for copying files
 4. **custom_exit**
-   - 
-
+   - Usage: exit
+   - Used for exiting the shell
 5. **custom_ls**
-   - 
-
+   - Usage: ls
+   - Used for listing items
 6. **custom_mv**
-   - 
+   - Usage: mv <Input_File_1> <Input_File_2> ... <Destination>
+   - Used for moving files
 
 
 ### Implementation
