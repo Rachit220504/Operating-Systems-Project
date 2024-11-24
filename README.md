@@ -1,10 +1,9 @@
 # Operating Systems Project
 
 ## Group Members
-1. **Aditya Sai Sriram Konduri** - CS22B2012  
-2. **Navaneethakrishnan R** - CS22B2014  
-3. **Harshith B** - CS22B2015  
-4. **Pranaav Prasad** - CS22B2022  
+1. **Rachit** - CS22B1088  
+2. **Shubh** - CS22B1090  
+3. **Kush** - CS22B2010   
 
 ## Prerequisite
 - Ensure your Ubuntu version is **24.04** if you're using WSL.
