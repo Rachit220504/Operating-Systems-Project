@@ -83,3 +83,9 @@ G
 
 ## Question_2: Custom UNIX shell application
 **Topics Implemented:**  cat,cd,cp,exit,ls,mv,rm
+
+In this project, we aim to develop a series of simplified UNIX-like utilities.
+These utilities will be lightweight versions of common commands, such as cat,
+ls, cd, and others. To avoid confusion with the standard UNIX commands, each
+utility will have a unique name; for instance, instead of using cat, you will
+implement a command called custom_cat .
