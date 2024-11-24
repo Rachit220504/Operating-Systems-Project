@@ -85,6 +85,7 @@ G
  
 4. **Shm_address**
    
+![shm add](https://github.com/user-attachments/assets/a3c3d9d7-8256-4469-a53d-0d2b59323f7e)
 
 
 5. **Describe**
