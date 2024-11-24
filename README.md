@@ -85,7 +85,7 @@ G
  
 4. **Shm_address**
    
-![ALT TEXT](images/thread_create.png)
+
 
 5. **Describe**
     
