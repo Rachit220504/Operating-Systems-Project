@@ -8,7 +8,7 @@
 ## Prerequisites
 - Bash
 - CMake
-- Ubuntu Version **22.04** / **24.04**
+- Ubuntu Version 22.04 / 24.04
 - xv6-public / xv6-riscv
 
 ## Project-1 : System Call inplemented: cps,shm_address, describe
