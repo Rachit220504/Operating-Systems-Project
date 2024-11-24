@@ -71,15 +71,18 @@ G
 ## Output Images
 
 1. **Make**
-   hbgf
+   ![ALT TEXT](images/make1.png)
+   ![ALT TEXT](images/make2.png)
 2. **Make Qemu**
-
+   ![ALT TEXT](images/makeqemu.png)
 3. **Cps**
-
+   ![ALT TEXT](images/signal.png)
 4. **Shm_address**
-
+   ![ALT TEXT](images/thread_create.png)
 5. **Describe**
+   ![ALT TEXT](images/thread_create.png)
 6. **Exit_terminal**
+   ![ALT TEXT](images/thread_create.png)
 
 ## Question_2: Custom UNIX shell application
 **Topics Implemented:**  'cat' , 'cd' , 'cp' , 'exit' , 'ls' , 'mv' , 'rm'
