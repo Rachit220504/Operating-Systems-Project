@@ -99,9 +99,10 @@ In this project, we aim to develop a series of simplified UNIX-like utilities.
 These utilities will be lightweight versions of common commands, such as cat,
 ls, cd, and others. To avoid confusion with the standard UNIX commands, each
 utility will have a unique name; for instance, instead of using cat, you will
-implement a command called custom_cat .
+implement a command called custom_cat. Signals like SIGINT, SIGSTOP and SIGTSTP
+have been ignored to prevent the interruption of the shell application.
 
-### Modified Commands
+### Implementation
 1. **custom_cat**
    - Usage: cat <Input_File_1> <Input_File_2> ...
    - Used for concatenating and displaying file contents
@@ -121,8 +122,6 @@ implement a command called custom_cat .
    - Usage: mv <Input_File_1> <Input_File_2> ... <Destination_Path>
    - Used for moving files
 
-
-### Implementation
 
 ### Output
 1. **Custom_cat**
