@@ -1,1 +1,1 @@
-# Operating-Systerms-Project
+# Operating Systems Project
