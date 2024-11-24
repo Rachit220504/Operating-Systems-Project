@@ -80,3 +80,6 @@ G
 
 5. **Describe**
 6. **Exit_terminal**
+
+## Question_2: Custom UNIX shell application
+**Topics Implemented:**  cat,cd,cp,exit,ls,mv,rm
