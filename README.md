@@ -90,7 +90,7 @@ $desc
 
 
 ## Question_2: Custom UNIX shell application
-**Topics Implemented:**  'cat' , 'cd' , 'cp' , 'exit' , 'ls' , 'mv' , 'rm'
+**Topics Implemented:**  'cat' , 'cd' , 'cp' , 'exit' , 'ls' , 'mv' 
 
 In this project, we aim to develop a series of simplified UNIX-like utilities.
 These utilities will be lightweight versions of common commands, such as cat,
@@ -100,20 +100,20 @@ implement a command called custom_cat .
 
 ### Modified Commands
 1. **custom_cat**
-![cat](https://github.com/user-attachments/assets/43c0772f-f89c-4959-82a9-cfdcc57a280f)
+   - 
 2. **custom_cd**
-![cd](https://github.com/user-attachments/assets/3775e9ae-d947-4f38-b92d-8abe57770416)
+   - 
 
 3. **custom_cp**
-![cp](https://github.com/user-attachments/assets/67051673-a4a4-44ca-8994-f757214a899b)
+   - 
 4. **custom_exit**
-![exit](https://github.com/user-attachments/assets/4d95cd69-34ba-4b65-a522-f13357c7c15e)
+   - 
 
 5. **custom_ls**
-![ls](https://github.com/user-attachments/assets/cacdee94-f091-4d99-89ce-2b7d68f68a84)
+   - 
 
 6. **custom_mv**
-![mv](https://github.com/user-attachments/assets/4cdf5f2b-ecce-4692-8652-5f9f6ce8a991)
+   - 
 
 
 ### Implementation
@@ -121,31 +121,29 @@ implement a command called custom_cat .
 ### Output
 1. **Custom_cat**
    
-![ALT TEXT](images/thread_create.png)
+![cat](https://github.com/user-attachments/assets/43c0772f-f89c-4959-82a9-cfdcc57a280f)
 
 2. **Custom_cd**
+![cd](https://github.com/user-attachments/assets/3775e9ae-d947-4f38-b92d-8abe57770416)
 
-![ALT TEXT](images/thread_create.png)
 
 3. **Custom_cp**
 
-![ALT TEXT](images/thread_create.png)
+![cp](https://github.com/user-attachments/assets/67051673-a4a4-44ca-8994-f757214a899b)
 
 4. **Custom_exit**
 
-![ALT TEXT](images/thread_create.png)
+![exit](https://github.com/user-attachments/assets/4d95cd69-34ba-4b65-a522-f13357c7c15e)
 
 5. **Custom_ls**
 
-![ALT TEXT](images/thread_create.png)
+![ls](https://github.com/user-attachments/assets/cacdee94-f091-4d99-89ce-2b7d68f68a84)
 
 6. **Custom_mv**
 
-![ALT TEXT](images/thread_create.png)
+![mv](https://github.com/user-attachments/assets/4cdf5f2b-ecce-4692-8652-5f9f6ce8a991)
 
-7. **Custom_rm**
 
-![ALT TEXT](images/thread_create.png)
    
 
 
