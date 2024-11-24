@@ -80,4 +80,4 @@ G
 
 5. **Describe**
 
-6.**Exit_terminal**
+ 6.**Exit_terminal**
